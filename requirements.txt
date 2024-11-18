@@ -1,1 +1,7 @@
+pip install python 3.7 (to install python)
+pip install notebook (to install jupyter notebook)
+jupyter notebook (to open notebook)
+create a project folder in your laptop
+After creating folder -> go to terminal -> cd "/Users/easha/Desktop/ai-resume matcher"
+pip install pandas numpy matplotlib seaborn scikit-learn
 
