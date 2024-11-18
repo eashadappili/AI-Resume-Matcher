@@ -66,4 +66,5 @@ A fully deployed system accessible via the cloud, ensuring scalability and real-
 
 # Features
 # Technologies Used
-# Setup Instructions
+Python, Pandas. Natural language Processing (NLP), nltk library, Spacy library, Scikit-learn, Matplot lib
+
